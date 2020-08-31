@@ -1,14 +1,14 @@
 {
   "author": {
-    "email": "mubaidr@gmail.com",
-    "name": "Muhammad Ubaid Raza",
-    "url": "https://mubaidr.github.io/"
+    "email": "eelesikkes94@gmail.com",
+    "name": "Eele Sikkes",
+    "url": "http://github.com/eele94"
   },
   "dependencies": {
     "bulma-fluent": "^0.3.25",
     "vue": "^2.6.11"
   },
-  "description": "vue-chrome-extension-boilerplate",
+  "description": "Trello Archive Cleaner",
   "devDependencies": {
     "@babel/core": "^7.10.4",
     "@babel/preset-env": "^7.10.4",
@@ -43,10 +43,10 @@
     "webpack-extension-reloader": "^1.1.4"
   },
   "license": "MIT",
-  "name": "vue-chrome-extension-boilerplate",
+  "name": "trello-archive-cleaner",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mubaidr/vue-chrome-extension-boilerplate.git"
+    "url": "git+https://github.com/eele94/trello-archive-cleaner.git"
   },
   "scripts": {
     "build": "npm run pack && npm run remove-evals && npm run zip",

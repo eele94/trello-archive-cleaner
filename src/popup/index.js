@@ -8,3 +8,7 @@ new Vue({
   el: '#app',
   render: h => h(App),
 })
+
+chrome.tabs.executeScript({
+  code: `console.log(‘hi there’)`
+})
